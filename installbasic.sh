@@ -1,0 +1,1 @@
+yay -S auto-cpufreq blueman bluez cava fastfetch hypridle hyprlock hyprshot imagemagick kitty nano neovim npm nwg-look oh-my-posh pipewire pipewire-alsa pipewire-audio pipewire-jack pipewire-pulse powertop tlp wireplumber walker-bin zen-browser-bin
